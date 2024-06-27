@@ -10,9 +10,6 @@ for j in range(a,b):
             break
         if c == 0:
             break
-        if i == j - 1 :
-            print(j,"is a prime number!!")
-            break
 
 
 
