@@ -11,3 +11,5 @@ for j in range(a,b):
         if c == 0:
             break
    
+def merhaba():
+	print("hello")
